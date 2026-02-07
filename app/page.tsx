@@ -11,6 +11,7 @@ import Team from "@/components/Team";
 // import Pricing from "@/components/Pricing";
 import Blog from "@/components/Blog";
 import Footer from "@/components/Footer";
+import Location from "@/components/Location";
 
 
 
@@ -28,6 +29,7 @@ export default function Home() {
       {/* <Team /> */}
       {/* <Pricing /> */}
       <Blog />
+      <Location/>
       <Footer />
       </div>
     // <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
